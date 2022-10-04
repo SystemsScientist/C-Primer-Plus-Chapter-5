@@ -10,7 +10,7 @@ int main() {
 
 	double distk, distm;	// distance run in km and in miles
 	double rate;		// average speed in mph
-	double mtime;		//time in seconds for one mile
+	double mtime;		// time in seconds for one mile
 
 	int min, sec;		// minutes and seconds of running time
 	int time;		// running time in seconds only
